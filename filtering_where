@@ -1,0 +1,5 @@
+Scenario: Find customers from Mumbai for a marketing campaign.
+
+SELECT customer_id, name, city
+FROM customers
+WHERE city = 'Mumbai';

@@ -1,0 +1,4 @@
+--Scenario: Retrieve all employee details for HR review.
+
+
+SELECT * FROM employees;
